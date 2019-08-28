@@ -42,6 +42,7 @@ eureka:
 #      exposure:
 #        include: hystrix.stream
         
+      
         
         
 turbine:
